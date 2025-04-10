@@ -1,0 +1,441 @@
+2025-04-07 14:19:17,041 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 14:19:17,041 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 14:19:17,049 - INFO -  * Restarting with stat
+2025-04-07 14:19:17,969 - WARNING -  * Debugger is active!
+2025-04-07 14:19:17,991 - INFO -  * Debugger PIN: 164-390-532
+2025-04-07 14:19:58,251 - INFO - Login successful for user: romal
+2025-04-07 14:19:58,253 - INFO - 127.0.0.1 - - [07/Apr/2025 14:19:58] "POST /login HTTP/1.1" 200 -
+2025-04-07 14:20:55,799 - INFO - 127.0.0.1 - - [07/Apr/2025 14:20:55] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:20:02,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:20:02,654 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:20:02,661 - INFO -  * Restarting with stat
+2025-04-10 11:20:03,388 - WARNING -  * Debugger is active!
+2025-04-10 11:20:03,397 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:20:07,438 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:07] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:20:24,485 - INFO - Login successful for user: romal
+2025-04-10 11:20:24,485 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:24] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:20:38,955 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87q0j97e_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87q0j97e', 'txt']
+2025-04-10 11:20:40,257 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_6hdlrq4y_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_6hdlrq4y', 'txt']
+2025-04-10 11:20:40,817 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_g6x9nvrd_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_g6x9nvrd', 'txt']
+2025-04-10 11:20:42,096 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:42] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:22:12,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:22:12,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:22:12,650 - INFO -  * Restarting with stat
+2025-04-10 11:22:13,319 - WARNING -  * Debugger is active!
+2025-04-10 11:22:13,325 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:22:15,532 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_df29r37l_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_df29r37l', 'txt']
+2025-04-10 11:22:16,013 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cvo4wgrf_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cvo4wgrf', 'txt']
+2025-04-10 11:22:16,529 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ffntu5tu_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ffntu5tu', 'txt']
+2025-04-10 11:22:17,795 - INFO - 127.0.0.1 - - [10/Apr/2025 11:22:17] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:22:36,668 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:22:36,759 - INFO -  * Restarting with stat
+2025-04-10 11:22:37,498 - WARNING -  * Debugger is active!
+2025-04-10 11:22:37,505 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:05,896 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:23:05,993 - INFO -  * Restarting with stat
+2025-04-10 11:23:06,644 - WARNING -  * Debugger is active!
+2025-04-10 11:23:06,650 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:09,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:23:09,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:23:09,984 - INFO -  * Restarting with stat
+2025-04-10 11:23:10,598 - WARNING -  * Debugger is active!
+2025-04-10 11:23:10,605 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:12,681 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_26nj26te_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_26nj26te', 'txt']
+2025-04-10 11:23:13,144 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vj_hohrv_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vj_hohrv', 'txt']
+2025-04-10 11:23:13,651 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2bdfzm2h_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2bdfzm2h', 'txt']
+2025-04-10 11:23:14,923 - INFO - 127.0.0.1 - - [10/Apr/2025 11:23:14] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:24:10,698 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_u3ruhg_0_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_u3ruhg_0', 'txt']
+2025-04-10 11:24:11,181 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_jv0tsju7_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_jv0tsju7', 'txt']
+2025-04-10 11:24:11,694 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_egovipyw_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_egovipyw', 'txt']
+2025-04-10 11:24:12,944 - INFO - 127.0.0.1 - - [10/Apr/2025 11:24:12] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:25:10,606 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_r5zifanw_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_r5zifanw', 'txt']
+2025-04-10 11:25:11,079 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d7ktj_cp_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d7ktj_cp', 'txt']
+2025-04-10 11:25:11,577 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_glzbshhm_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_glzbshhm', 'txt']
+2025-04-10 11:25:12,810 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:12] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:25:53,756 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:25:53,854 - INFO -  * Restarting with stat
+2025-04-10 11:25:54,689 - WARNING -  * Debugger is active!
+2025-04-10 11:25:54,697 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:25:55,341 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d3cu4303_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d3cu4303', 'txt']
+2025-04-10 11:25:55,825 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_y6lbwkgz_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_y6lbwkgz', 'txt']
+2025-04-10 11:25:56,397 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xuo4jicc_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xuo4jicc', 'txt']
+2025-04-10 11:25:57,670 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:57] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:28:25,745 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:28:25,832 - INFO -  * Restarting with stat
+2025-04-10 11:28:26,530 - WARNING -  * Debugger is active!
+2025-04-10 11:28:26,530 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:28:28,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:28:28,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:28:28,981 - INFO -  * Restarting with stat
+2025-04-10 11:28:29,602 - WARNING -  * Debugger is active!
+2025-04-10 11:28:29,605 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:28:34,284 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_yw0eec41_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_yw0eec41', 'txt']
+2025-04-10 11:28:34,763 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_3medxxry_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_3medxxry', 'txt']
+2025-04-10 11:28:35,285 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d7klh_5n_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_d7klh_5n', 'txt']
+2025-04-10 11:28:36,604 - INFO - 127.0.0.1 - - [10/Apr/2025 11:28:36] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:29:10,659 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xubvxq92_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xubvxq92', 'txt']
+2025-04-10 11:29:11,194 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fvz_qwjh_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fvz_qwjh', 'txt']
+2025-04-10 11:29:11,713 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_790f3_nj_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_790f3_nj', 'txt']
+2025-04-10 11:29:13,076 - INFO - 127.0.0.1 - - [10/Apr/2025 11:29:13] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:29:13,228 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:29:13,316 - INFO -  * Restarting with stat
+2025-04-10 11:29:14,016 - WARNING -  * Debugger is active!
+2025-04-10 11:29:14,024 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:29:15,919 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fhi6g9ly_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fhi6g9ly', 'txt']
+2025-04-10 11:29:16,398 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7zvlbuma_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7zvlbuma', 'txt']
+2025-04-10 11:29:16,909 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_az_2xawr_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_az_2xawr', 'txt']
+2025-04-10 11:29:18,180 - INFO - 127.0.0.1 - - [10/Apr/2025 11:29:18] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:30:06,793 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:30:06,871 - INFO -  * Restarting with stat
+2025-04-10 11:30:07,512 - WARNING -  * Debugger is active!
+2025-04-10 11:30:07,520 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:30:09,259 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1uzgf6b9_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1uzgf6b9', 'txt']
+2025-04-10 11:30:09,781 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_hbtyppby_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_hbtyppby', 'txt']
+2025-04-10 11:30:10,298 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2k_dx2zd_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2k_dx2zd', 'txt']
+2025-04-10 11:30:11,646 - INFO - 127.0.0.1 - - [10/Apr/2025 11:30:11] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:31:06,343 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:31:06,432 - INFO -  * Restarting with stat
+2025-04-10 11:31:07,151 - WARNING -  * Debugger is active!
+2025-04-10 11:31:07,158 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:31:10,993 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_am5zooee_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_am5zooee', 'txt']
+2025-04-10 11:31:11,465 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_byfhcf1v_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_byfhcf1v', 'txt']
+2025-04-10 11:31:11,987 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fxwuzc1n_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fxwuzc1n', 'txt']
+2025-04-10 11:31:13,241 - INFO - 127.0.0.1 - - [10/Apr/2025 11:31:13] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:31:24,406 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:31:24,488 - INFO -  * Restarting with stat
+2025-04-10 11:31:25,107 - WARNING -  * Debugger is active!
+2025-04-10 11:31:25,113 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:33:03,382 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:33:03,459 - INFO -  * Restarting with stat
+2025-04-10 11:33:04,165 - WARNING -  * Debugger is active!
+2025-04-10 11:33:04,171 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:33:05,284 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_0b3b0yqn_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_0b3b0yqn', 'txt']
+2025-04-10 11:33:05,772 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_p3o0r_tg_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_p3o0r_tg', 'txt']
+2025-04-10 11:33:06,279 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_iudq9q5l_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_iudq9q5l', 'txt']
+2025-04-10 11:33:07,544 - INFO - 127.0.0.1 - - [10/Apr/2025 11:33:07] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:36:16,864 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:36:16,943 - INFO -  * Restarting with stat
+2025-04-10 11:36:17,686 - WARNING -  * Debugger is active!
+2025-04-10 11:36:17,703 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:36:21,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:36:21,047 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:36:21,048 - INFO -  * Restarting with stat
+2025-04-10 11:36:21,666 - WARNING -  * Debugger is active!
+2025-04-10 11:36:21,673 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:36:24,936 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:24] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:36:30,859 - INFO - Login successful for user: romal
+2025-04-10 11:36:30,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:30] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:36:43,656 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_bgz4kis8_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_bgz4kis8', 'txt']
+2025-04-10 11:36:44,122 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_o3pcvpp__input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_o3pcvpp_', 'txt']
+2025-04-10 11:36:44,670 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_i15_m6hw_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_i15_m6hw', 'txt']
+2025-04-10 11:36:45,938 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:45] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:38:27,059 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1tgvcd_2_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1tgvcd_2', 'txt']
+2025-04-10 11:38:27,524 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_sv41g45l_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_sv41g45l', 'txt']
+2025-04-10 11:38:28,031 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_i_h4_wws_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_i_h4_wws', 'txt']
+2025-04-10 11:38:29,296 - INFO - 127.0.0.1 - - [10/Apr/2025 11:38:29] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:38:39,186 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2b9vhg4j_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2b9vhg4j', 'txt']
+2025-04-10 11:38:39,652 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_192agfhq_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_192agfhq', 'txt']
+2025-04-10 11:38:40,171 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_b777zkrz_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_b777zkrz', 'txt']
+2025-04-10 11:38:41,452 - INFO - 127.0.0.1 - - [10/Apr/2025 11:38:41] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:40:36,019 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 11:40:36,107 - INFO -  * Restarting with stat
+2025-04-10 11:40:36,769 - WARNING -  * Debugger is active!
+2025-04-10 11:40:36,772 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:40:43,001 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_c0vrzju3_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_c0vrzju3', 'txt']
+2025-04-10 11:40:43,477 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vnic0fq__input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vnic0fq_', 'txt']
+2025-04-10 11:40:43,969 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xrzidc7__input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_xrzidc7_', 'txt']
+2025-04-10 11:40:45,269 - INFO - 127.0.0.1 - - [10/Apr/2025 11:40:45] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:40:57,402 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_p72xo2ij_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_p72xo2ij', 'txt']
+2025-04-10 11:40:57,909 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_pdmwn40k_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_pdmwn40k', 'txt']
+2025-04-10 11:40:58,514 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_8rcnljmp_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_8rcnljmp', 'txt']
+2025-04-10 11:40:59,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:40:59] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:41:33,577 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:41:33,703 - INFO -  * Restarting with stat
+2025-04-10 11:41:34,541 - WARNING -  * Debugger is active!
+2025-04-10 11:41:34,548 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:41:35,962 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_j8t0f3jx_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_j8t0f3jx', 'txt']
+2025-04-10 11:41:36,534 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2kpe8vlv_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2kpe8vlv', 'txt']
+2025-04-10 11:41:37,055 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9pibbqpq_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9pibbqpq', 'txt']
+2025-04-10 11:41:38,315 - INFO - 127.0.0.1 - - [10/Apr/2025 11:41:38] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:42:13,068 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:13,162 - INFO -  * Restarting with stat
+2025-04-10 11:42:13,915 - WARNING -  * Debugger is active!
+2025-04-10 11:42:13,921 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:19,014 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:19,149 - INFO -  * Restarting with stat
+2025-04-10 11:42:19,916 - WARNING -  * Debugger is active!
+2025-04-10 11:42:19,924 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:20,545 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_aeq6ze2a_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_aeq6ze2a', 'txt']
+2025-04-10 11:42:21,033 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_6_plwora_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_6_plwora', 'txt']
+2025-04-10 11:42:21,551 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_84uaqse8_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_84uaqse8', 'txt']
+2025-04-10 11:42:22,800 - INFO - 127.0.0.1 - - [10/Apr/2025 11:42:22] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:42:32,141 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:32,268 - INFO -  * Restarting with stat
+2025-04-10 11:42:32,999 - WARNING -  * Debugger is active!
+2025-04-10 11:42:33,008 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:33,585 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ledjqjk3_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ledjqjk3', 'txt']
+2025-04-10 11:42:34,049 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_dtreqf10_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_dtreqf10', 'txt']
+2025-04-10 11:42:34,555 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fqx_9old_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_fqx_9old', 'txt']
+2025-04-10 11:42:35,835 - INFO - 127.0.0.1 - - [10/Apr/2025 11:42:35] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:43:17,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:43:17,494 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:43:17,494 - INFO -  * Restarting with stat
+2025-04-10 11:43:18,294 - WARNING -  * Debugger is active!
+2025-04-10 11:43:18,302 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:43:20,013 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2tbbmw3k_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2tbbmw3k', 'txt']
+2025-04-10 11:43:20,509 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_kcazjsjx_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_kcazjsjx', 'txt']
+2025-04-10 11:43:21,103 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_lj12extp_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_lj12extp', 'txt']
+2025-04-10 11:43:22,463 - INFO - 127.0.0.1 - - [10/Apr/2025 11:43:22] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:48:06,364 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:48:06,490 - INFO -  * Restarting with stat
+2025-04-10 11:48:07,209 - WARNING -  * Debugger is active!
+2025-04-10 11:48:07,217 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:48:34,571 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:48:34,648 - INFO -  * Restarting with stat
+2025-04-10 11:48:35,258 - WARNING -  * Debugger is active!
+2025-04-10 11:48:35,265 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:49:02,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:49:02,235 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:49:02,236 - INFO -  * Restarting with stat
+2025-04-10 11:49:02,902 - WARNING -  * Debugger is active!
+2025-04-10 11:49:02,909 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:49:06,373 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cpqdg3od_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cpqdg3od', 'txt']
+2025-04-10 11:49:07,066 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9ugx70yy_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9ugx70yy', 'txt']
+2025-04-10 11:49:07,591 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_beo36brx_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_beo36brx', 'txt']
+2025-04-10 11:49:08,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:49:08] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:51:17,978 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:51:17,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:51:17,979 - INFO -  * Restarting with stat
+2025-04-10 11:51:18,587 - WARNING -  * Debugger is active!
+2025-04-10 11:51:18,593 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:51:28,046 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ng02zkhm_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ng02zkhm', 'txt']
+2025-04-10 11:51:28,557 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87mzw4gr_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87mzw4gr', 'txt']
+2025-04-10 11:51:29,108 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ygz_2cd0_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ygz_2cd0', 'txt']
+2025-04-10 11:51:30,510 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:30] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:51:43,976 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:51:44,062 - INFO -  * Restarting with stat
+2025-04-10 11:51:44,725 - WARNING -  * Debugger is active!
+2025-04-10 11:51:44,731 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:51:46,256 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:46] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:51:50,582 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:50] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:51:54,151 - INFO - Login successful for user: romal
+2025-04-10 11:51:54,152 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:54] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:52:08,374 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_z5io2ifj_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_z5io2ifj', 'txt']
+2025-04-10 11:52:08,868 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ln8cxmxq_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ln8cxmxq', 'txt']
+2025-04-10 11:52:09,380 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_hzrnd_pi_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_hzrnd_pi', 'txt']
+2025-04-10 11:52:10,644 - INFO - 127.0.0.1 - - [10/Apr/2025 11:52:10] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:53:42,332 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:53:42,449 - INFO -  * Restarting with stat
+2025-04-10 11:53:43,182 - WARNING -  * Debugger is active!
+2025-04-10 11:53:43,189 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:53:46,068 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87hfr4xl_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_87hfr4xl', 'txt']
+2025-04-10 11:53:46,544 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_w1fgdk4n_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_w1fgdk4n', 'txt']
+2025-04-10 11:53:47,037 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_qrdfiiij_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_qrdfiiij', 'txt']
+2025-04-10 11:53:48,279 - INFO - 127.0.0.1 - - [10/Apr/2025 11:53:48] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:58:38,048 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:58:38,146 - INFO -  * Restarting with stat
+2025-04-10 11:58:38,786 - WARNING -  * Debugger is active!
+2025-04-10 11:58:38,792 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:58:41,201 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_nzvsem5j_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_nzvsem5j', 'txt']
+2025-04-10 11:58:41,755 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_wt5wzhyc_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_wt5wzhyc', 'txt']
+2025-04-10 11:58:42,320 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1l3xd5vh_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_1l3xd5vh', 'txt']
+2025-04-10 11:58:43,593 - INFO - 127.0.0.1 - - [10/Apr/2025 11:58:43] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:58:48,960 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:58:49,044 - INFO -  * Restarting with stat
+2025-04-10 11:58:49,658 - WARNING -  * Debugger is active!
+2025-04-10 11:58:49,664 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:01:42,929 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:01:43,016 - INFO -  * Restarting with stat
+2025-04-10 12:01:43,731 - WARNING -  * Debugger is active!
+2025-04-10 12:01:43,736 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:01:56,933 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:01:57,038 - INFO -  * Restarting with stat
+2025-04-10 12:01:57,726 - WARNING -  * Debugger is active!
+2025-04-10 12:01:57,732 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:02:00,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:02:00,198 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:02:00,199 - INFO -  * Restarting with stat
+2025-04-10 12:02:00,809 - WARNING -  * Debugger is active!
+2025-04-10 12:02:00,815 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:02:04,433 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_3aiq_00x_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_3aiq_00x', 'txt']
+2025-04-10 12:02:04,976 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_oj5q9xhm_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_oj5q9xhm', 'txt']
+2025-04-10 12:02:05,489 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_006azp34_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_006azp34', 'txt']
+2025-04-10 12:02:06,771 - INFO - 127.0.0.1 - - [10/Apr/2025 12:02:06] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:02:15,062 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:02:15,140 - INFO -  * Restarting with stat
+2025-04-10 12:02:15,849 - WARNING -  * Debugger is active!
+2025-04-10 12:02:15,856 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:04:05,257 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 12:04:05,351 - INFO -  * Restarting with stat
+2025-04-10 12:04:05,962 - WARNING -  * Debugger is active!
+2025-04-10 12:04:05,968 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:04:12,069 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 12:04:12,169 - INFO -  * Restarting with stat
+2025-04-10 12:04:12,864 - WARNING -  * Debugger is active!
+2025-04-10 12:04:12,873 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:19:36,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:19:36,763 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:19:36,763 - INFO -  * Restarting with stat
+2025-04-10 12:19:37,391 - WARNING -  * Debugger is active!
+2025-04-10 12:19:37,394 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:19:40,722 - INFO - 127.0.0.1 - - [10/Apr/2025 12:19:40] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 12:19:44,492 - INFO - Login successful for user: romal
+2025-04-10 12:19:44,493 - INFO - 127.0.0.1 - - [10/Apr/2025 12:19:44] "POST /login HTTP/1.1" 200 -
+2025-04-10 12:20:01,891 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_qulkqi3m_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_qulkqi3m', 'txt']
+2025-04-10 12:20:02,381 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_72ioq01g_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_72ioq01g', 'txt']
+2025-04-10 12:20:02,900 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_35ipc5f1_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_35ipc5f1', 'txt']
+2025-04-10 12:20:04,191 - INFO - 127.0.0.1 - - [10/Apr/2025 12:20:04] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:21:28,885 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:21:29,000 - INFO -  * Restarting with stat
+2025-04-10 12:21:30,082 - WARNING -  * Debugger is active!
+2025-04-10 12:21:30,082 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:21:32,590 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2iqfb2bw_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_2iqfb2bw', 'txt']
+2025-04-10 12:21:33,083 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7e9j4pmy_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7e9j4pmy', 'txt']
+2025-04-10 12:21:33,583 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_a9rbssef_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_a9rbssef', 'txt']
+2025-04-10 12:21:34,866 - INFO - 127.0.0.1 - - [10/Apr/2025 12:21:34] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:37:52,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:37:52,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:37:52,145 - INFO -  * Restarting with stat
+2025-04-10 12:37:52,813 - WARNING -  * Debugger is active!
+2025-04-10 12:37:52,830 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:37:55,917 - INFO - 127.0.0.1 - - [10/Apr/2025 12:37:55] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 12:37:58,790 - INFO - Login successful for user: romal
+2025-04-10 12:37:58,790 - INFO - 127.0.0.1 - - [10/Apr/2025 12:37:58] "POST /login HTTP/1.1" 200 -
+2025-04-10 12:38:08,276 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_haewf73d_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_haewf73d', 'txt']
+2025-04-10 12:38:08,754 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_th3ml2kk_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_th3ml2kk', 'txt']
+2025-04-10 12:38:09,257 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_evej5ucz_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_evej5ucz', 'txt']
+2025-04-10 12:38:10,502 - INFO - 127.0.0.1 - - [10/Apr/2025 12:38:10] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:05,831 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:39:05,927 - INFO -  * Restarting with stat
+2025-04-10 12:39:06,593 - WARNING -  * Debugger is active!
+2025-04-10 12:39:06,593 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:09,378 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cs1lfk7r_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_cs1lfk7r', 'txt']
+2025-04-10 12:39:09,879 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_0vy9ma99_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_0vy9ma99', 'txt']
+2025-04-10 12:39:10,388 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_a7v7pbvl_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_a7v7pbvl', 'txt']
+2025-04-10 12:39:11,728 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:11] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:22,847 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:39:22,929 - INFO -  * Restarting with stat
+2025-04-10 12:39:23,618 - WARNING -  * Debugger is active!
+2025-04-10 12:39:23,624 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:34,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:39:34,304 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:39:34,305 - INFO -  * Restarting with stat
+2025-04-10 12:39:34,926 - WARNING -  * Debugger is active!
+2025-04-10 12:39:34,931 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:38,000 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ffzsp812_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_ffzsp812', 'txt']
+2025-04-10 12:39:38,457 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_mjmpmd18_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_mjmpmd18', 'txt']
+2025-04-10 12:39:38,962 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_z4gu398z_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_z4gu398z', 'txt']
+2025-04-10 12:39:40,245 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:40] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:55,240 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:39:55,323 - INFO -  * Restarting with stat
+2025-04-10 12:39:55,991 - WARNING -  * Debugger is active!
+2025-04-10 12:39:56,005 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:57,142 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_47kmlpmu_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_47kmlpmu', 'txt']
+2025-04-10 12:39:57,656 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_jrux48rn_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_jrux48rn', 'txt']
+2025-04-10 12:39:58,177 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vsm9kaju_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vsm9kaju', 'txt']
+2025-04-10 12:39:59,429 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:59] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:40:32,539 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 12:40:32,650 - INFO -  * Restarting with stat
+2025-04-10 12:40:33,300 - WARNING -  * Debugger is active!
+2025-04-10 12:40:33,300 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:40:35,864 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_sir6qehu_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_sir6qehu', 'txt']
+2025-04-10 12:40:36,340 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9mbxlekg_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_9mbxlekg', 'txt']
+2025-04-10 12:40:36,832 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_og1f7ca4_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_og1f7ca4', 'txt']
+2025-04-10 12:40:38,069 - INFO - 127.0.0.1 - - [10/Apr/2025 12:40:38] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:59:52,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:59:52,506 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:59:52,506 - INFO -  * Restarting with stat
+2025-04-10 12:59:53,118 - WARNING -  * Debugger is active!
+2025-04-10 12:59:53,125 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:59:57,024 - INFO - Login successful for user: romal
+2025-04-10 12:59:57,024 - INFO - 127.0.0.1 - - [10/Apr/2025 12:59:57] "POST /login HTTP/1.1" 200 -
+2025-04-10 13:00:06,379 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_b7vg0yxm_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_b7vg0yxm', 'txt']
+2025-04-10 13:00:06,943 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_y18y2b1n_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_y18y2b1n', 'txt']
+2025-04-10 13:00:07,462 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_j9o2mnzn_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_j9o2mnzn', 'txt']
+2025-04-10 13:00:08,728 - INFO - 127.0.0.1 - - [10/Apr/2025 13:00:08] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 13:03:16,818 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:03:17,010 - INFO -  * Restarting with stat
+2025-04-10 13:03:17,913 - WARNING -  * Debugger is active!
+2025-04-10 13:03:17,919 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:03:28,097 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:03:28,201 - INFO -  * Restarting with stat
+2025-04-10 13:03:29,008 - WARNING -  * Debugger is active!
+2025-04-10 13:03:29,015 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:19,784 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 13:08:19,906 - INFO -  * Restarting with stat
+2025-04-10 13:08:20,520 - WARNING -  * Debugger is active!
+2025-04-10 13:08:20,526 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:29,688 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:08:29,768 - INFO -  * Restarting with stat
+2025-04-10 13:08:30,384 - WARNING -  * Debugger is active!
+2025-04-10 13:08:30,390 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:43,588 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:08:43,669 - INFO -  * Restarting with stat
+2025-04-10 13:08:44,338 - WARNING -  * Debugger is active!
+2025-04-10 13:08:44,344 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:50,446 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:08:50,526 - INFO -  * Restarting with stat
+2025-04-10 13:08:51,167 - WARNING -  * Debugger is active!
+2025-04-10 13:08:51,174 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:09:18,648 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:09:18,726 - INFO -  * Restarting with stat
+2025-04-10 13:09:19,355 - WARNING -  * Debugger is active!
+2025-04-10 13:09:19,361 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:09:45,729 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 13:09:45,803 - INFO -  * Restarting with stat
+2025-04-10 13:09:46,622 - WARNING -  * Debugger is active!
+2025-04-10 13:09:46,629 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:10:12,986 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\routes.py', reloading
+2025-04-10 13:10:13,095 - INFO -  * Restarting with stat
+2025-04-10 13:10:13,804 - WARNING -  * Debugger is active!
+2025-04-10 13:10:13,811 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:11:33,935 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\__init__.py', reloading
+2025-04-10 13:11:34,017 - INFO -  * Restarting with stat
+2025-04-10 13:11:34,717 - WARNING -  * Debugger is active!
+2025-04-10 13:11:34,723 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:16,216 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\utils.py', reloading
+2025-04-10 13:13:16,315 - INFO -  * Restarting with stat
+2025-04-10 13:13:17,024 - WARNING -  * Debugger is active!
+2025-04-10 13:13:17,030 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:20,937 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 13:13:20,937 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 13:13:20,938 - INFO -  * Restarting with stat
+2025-04-10 13:13:21,578 - WARNING -  * Debugger is active!
+2025-04-10 13:13:21,584 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:24,451 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_n674fgru_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_n674fgru', 'txt']
+2025-04-10 13:13:24,959 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_metmntgw_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_metmntgw', 'txt']
+2025-04-10 13:13:25,470 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7k50bahg_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_7k50bahg', 'txt']
+2025-04-10 13:13:27,484 - INFO - 127.0.0.1 - - [10/Apr/2025 13:13:27] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 13:13:41,892 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\utils.py', reloading
+2025-04-10 13:13:41,981 - INFO -  * Restarting with stat
+2025-04-10 13:13:42,644 - WARNING -  * Debugger is active!
+2025-04-10 13:13:42,662 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:46,175 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_u0rvbztm_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_u0rvbztm', 'txt']
+2025-04-10 13:13:46,656 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_q0bdtqyu_input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_q0bdtqyu', 'txt']
+2025-04-10 13:13:47,164 - DEBUG - ['tesseract', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vmx8mzl__input.PNG', 'C:\\Users\\romal\\AppData\\Local\\Temp\\tess_vmx8mzl_', 'txt']
+2025-04-10 13:13:49,204 - INFO - 127.0.0.1 - - [10/Apr/2025 13:13:49] "[35m[1mPOST /create_employee HTTP/1.1[0m" 201 -
+2025-04-10 13:16:26,036 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 13:16:26,036 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 13:16:26,037 - INFO -  * Restarting with stat
+2025-04-10 13:16:26,769 - WARNING -  * Debugger is active!
+2025-04-10 13:16:26,786 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:17:30,502 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:30] "[31m[1mPOST /get_employee HTTP/1.1[0m" 401 -
+2025-04-10 13:17:35,024 - INFO - Login successful for user: romal
+2025-04-10 13:17:35,024 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:35] "POST /login HTTP/1.1" 200 -
+2025-04-10 13:17:50,740 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:50] "POST /get_employee HTTP/1.1" 200 -

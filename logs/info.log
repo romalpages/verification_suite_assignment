@@ -1,0 +1,330 @@
+2025-04-07 14:19:17,041 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 14:19:17,041 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 14:19:17,049 - INFO -  * Restarting with stat
+2025-04-07 14:19:17,969 - WARNING -  * Debugger is active!
+2025-04-07 14:19:17,991 - INFO -  * Debugger PIN: 164-390-532
+2025-04-07 14:19:58,251 - INFO - Login successful for user: romal
+2025-04-07 14:19:58,253 - INFO - 127.0.0.1 - - [07/Apr/2025 14:19:58] "POST /login HTTP/1.1" 200 -
+2025-04-07 14:20:55,799 - INFO - 127.0.0.1 - - [07/Apr/2025 14:20:55] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:20:02,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:20:02,654 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:20:02,661 - INFO -  * Restarting with stat
+2025-04-10 11:20:03,388 - WARNING -  * Debugger is active!
+2025-04-10 11:20:03,397 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:20:07,438 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:07] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:20:24,485 - INFO - Login successful for user: romal
+2025-04-10 11:20:24,485 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:24] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:20:42,096 - INFO - 127.0.0.1 - - [10/Apr/2025 11:20:42] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:22:12,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:22:12,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:22:12,650 - INFO -  * Restarting with stat
+2025-04-10 11:22:13,319 - WARNING -  * Debugger is active!
+2025-04-10 11:22:13,325 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:22:17,795 - INFO - 127.0.0.1 - - [10/Apr/2025 11:22:17] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:22:36,668 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:22:36,759 - INFO -  * Restarting with stat
+2025-04-10 11:22:37,498 - WARNING -  * Debugger is active!
+2025-04-10 11:22:37,505 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:05,896 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:23:05,993 - INFO -  * Restarting with stat
+2025-04-10 11:23:06,644 - WARNING -  * Debugger is active!
+2025-04-10 11:23:06,650 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:09,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:23:09,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:23:09,984 - INFO -  * Restarting with stat
+2025-04-10 11:23:10,598 - WARNING -  * Debugger is active!
+2025-04-10 11:23:10,605 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:23:14,923 - INFO - 127.0.0.1 - - [10/Apr/2025 11:23:14] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:24:12,944 - INFO - 127.0.0.1 - - [10/Apr/2025 11:24:12] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:25:12,810 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:12] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:25:53,756 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:25:53,854 - INFO -  * Restarting with stat
+2025-04-10 11:25:54,689 - WARNING -  * Debugger is active!
+2025-04-10 11:25:54,697 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:25:57,670 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:57] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:28:25,745 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:28:25,832 - INFO -  * Restarting with stat
+2025-04-10 11:28:26,530 - WARNING -  * Debugger is active!
+2025-04-10 11:28:26,530 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:28:28,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:28:28,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:28:28,981 - INFO -  * Restarting with stat
+2025-04-10 11:28:29,602 - WARNING -  * Debugger is active!
+2025-04-10 11:28:29,605 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:28:36,604 - INFO - 127.0.0.1 - - [10/Apr/2025 11:28:36] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:29:13,076 - INFO - 127.0.0.1 - - [10/Apr/2025 11:29:13] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:29:13,228 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:29:13,316 - INFO -  * Restarting with stat
+2025-04-10 11:29:14,016 - WARNING -  * Debugger is active!
+2025-04-10 11:29:14,024 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:29:18,180 - INFO - 127.0.0.1 - - [10/Apr/2025 11:29:18] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:30:06,793 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:30:06,871 - INFO -  * Restarting with stat
+2025-04-10 11:30:07,512 - WARNING -  * Debugger is active!
+2025-04-10 11:30:07,520 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:30:11,646 - INFO - 127.0.0.1 - - [10/Apr/2025 11:30:11] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:31:06,343 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:31:06,432 - INFO -  * Restarting with stat
+2025-04-10 11:31:07,151 - WARNING -  * Debugger is active!
+2025-04-10 11:31:07,158 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:31:13,241 - INFO - 127.0.0.1 - - [10/Apr/2025 11:31:13] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:31:24,406 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:31:24,488 - INFO -  * Restarting with stat
+2025-04-10 11:31:25,107 - WARNING -  * Debugger is active!
+2025-04-10 11:31:25,113 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:33:03,382 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:33:03,459 - INFO -  * Restarting with stat
+2025-04-10 11:33:04,165 - WARNING -  * Debugger is active!
+2025-04-10 11:33:04,171 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:33:07,544 - INFO - 127.0.0.1 - - [10/Apr/2025 11:33:07] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:36:16,864 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:36:16,943 - INFO -  * Restarting with stat
+2025-04-10 11:36:17,686 - WARNING -  * Debugger is active!
+2025-04-10 11:36:17,703 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:36:21,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:36:21,047 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:36:21,048 - INFO -  * Restarting with stat
+2025-04-10 11:36:21,666 - WARNING -  * Debugger is active!
+2025-04-10 11:36:21,673 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:36:24,936 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:24] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:36:30,859 - INFO - Login successful for user: romal
+2025-04-10 11:36:30,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:30] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:36:45,938 - INFO - 127.0.0.1 - - [10/Apr/2025 11:36:45] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:38:29,296 - INFO - 127.0.0.1 - - [10/Apr/2025 11:38:29] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:38:41,452 - INFO - 127.0.0.1 - - [10/Apr/2025 11:38:41] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:40:36,019 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 11:40:36,107 - INFO -  * Restarting with stat
+2025-04-10 11:40:36,769 - WARNING -  * Debugger is active!
+2025-04-10 11:40:36,772 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:40:45,269 - INFO - 127.0.0.1 - - [10/Apr/2025 11:40:45] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:40:59,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:40:59] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:41:33,577 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:41:33,703 - INFO -  * Restarting with stat
+2025-04-10 11:41:34,541 - WARNING -  * Debugger is active!
+2025-04-10 11:41:34,548 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:41:38,315 - INFO - 127.0.0.1 - - [10/Apr/2025 11:41:38] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:42:13,068 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:13,162 - INFO -  * Restarting with stat
+2025-04-10 11:42:13,915 - WARNING -  * Debugger is active!
+2025-04-10 11:42:13,921 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:19,014 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:19,149 - INFO -  * Restarting with stat
+2025-04-10 11:42:19,916 - WARNING -  * Debugger is active!
+2025-04-10 11:42:19,924 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:22,800 - INFO - 127.0.0.1 - - [10/Apr/2025 11:42:22] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:42:32,141 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:42:32,268 - INFO -  * Restarting with stat
+2025-04-10 11:42:32,999 - WARNING -  * Debugger is active!
+2025-04-10 11:42:33,008 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:42:35,835 - INFO - 127.0.0.1 - - [10/Apr/2025 11:42:35] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:43:17,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:43:17,494 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:43:17,494 - INFO -  * Restarting with stat
+2025-04-10 11:43:18,294 - WARNING -  * Debugger is active!
+2025-04-10 11:43:18,302 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:43:22,463 - INFO - 127.0.0.1 - - [10/Apr/2025 11:43:22] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:48:06,364 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:48:06,490 - INFO -  * Restarting with stat
+2025-04-10 11:48:07,209 - WARNING -  * Debugger is active!
+2025-04-10 11:48:07,217 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:48:34,571 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 11:48:34,648 - INFO -  * Restarting with stat
+2025-04-10 11:48:35,258 - WARNING -  * Debugger is active!
+2025-04-10 11:48:35,265 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:49:02,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:49:02,235 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:49:02,236 - INFO -  * Restarting with stat
+2025-04-10 11:49:02,902 - WARNING -  * Debugger is active!
+2025-04-10 11:49:02,909 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:49:08,859 - INFO - 127.0.0.1 - - [10/Apr/2025 11:49:08] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:51:17,978 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:51:17,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:51:17,979 - INFO -  * Restarting with stat
+2025-04-10 11:51:18,587 - WARNING -  * Debugger is active!
+2025-04-10 11:51:18,593 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:51:30,510 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:30] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:51:43,976 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:51:44,062 - INFO -  * Restarting with stat
+2025-04-10 11:51:44,725 - WARNING -  * Debugger is active!
+2025-04-10 11:51:44,731 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:51:46,256 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:46] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:51:50,582 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:50] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 11:51:54,151 - INFO - Login successful for user: romal
+2025-04-10 11:51:54,152 - INFO - 127.0.0.1 - - [10/Apr/2025 11:51:54] "POST /login HTTP/1.1" 200 -
+2025-04-10 11:52:10,644 - INFO - 127.0.0.1 - - [10/Apr/2025 11:52:10] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:53:42,332 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 11:53:42,449 - INFO -  * Restarting with stat
+2025-04-10 11:53:43,182 - WARNING -  * Debugger is active!
+2025-04-10 11:53:43,189 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:53:48,279 - INFO - 127.0.0.1 - - [10/Apr/2025 11:53:48] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:58:38,048 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:58:38,146 - INFO -  * Restarting with stat
+2025-04-10 11:58:38,786 - WARNING -  * Debugger is active!
+2025-04-10 11:58:38,792 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 11:58:43,593 - INFO - 127.0.0.1 - - [10/Apr/2025 11:58:43] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 11:58:48,960 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 11:58:49,044 - INFO -  * Restarting with stat
+2025-04-10 11:58:49,658 - WARNING -  * Debugger is active!
+2025-04-10 11:58:49,664 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:01:42,929 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:01:43,016 - INFO -  * Restarting with stat
+2025-04-10 12:01:43,731 - WARNING -  * Debugger is active!
+2025-04-10 12:01:43,736 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:01:56,933 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:01:57,038 - INFO -  * Restarting with stat
+2025-04-10 12:01:57,726 - WARNING -  * Debugger is active!
+2025-04-10 12:01:57,732 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:02:00,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:02:00,198 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:02:00,199 - INFO -  * Restarting with stat
+2025-04-10 12:02:00,809 - WARNING -  * Debugger is active!
+2025-04-10 12:02:00,815 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:02:06,771 - INFO - 127.0.0.1 - - [10/Apr/2025 12:02:06] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:02:15,062 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:02:15,140 - INFO -  * Restarting with stat
+2025-04-10 12:02:15,849 - WARNING -  * Debugger is active!
+2025-04-10 12:02:15,856 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:04:05,257 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 12:04:05,351 - INFO -  * Restarting with stat
+2025-04-10 12:04:05,962 - WARNING -  * Debugger is active!
+2025-04-10 12:04:05,968 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:04:12,069 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 12:04:12,169 - INFO -  * Restarting with stat
+2025-04-10 12:04:12,864 - WARNING -  * Debugger is active!
+2025-04-10 12:04:12,873 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:19:36,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:19:36,763 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:19:36,763 - INFO -  * Restarting with stat
+2025-04-10 12:19:37,391 - WARNING -  * Debugger is active!
+2025-04-10 12:19:37,394 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:19:40,722 - INFO - 127.0.0.1 - - [10/Apr/2025 12:19:40] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 12:19:44,492 - INFO - Login successful for user: romal
+2025-04-10 12:19:44,493 - INFO - 127.0.0.1 - - [10/Apr/2025 12:19:44] "POST /login HTTP/1.1" 200 -
+2025-04-10 12:20:04,191 - INFO - 127.0.0.1 - - [10/Apr/2025 12:20:04] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:21:28,885 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:21:29,000 - INFO -  * Restarting with stat
+2025-04-10 12:21:30,082 - WARNING -  * Debugger is active!
+2025-04-10 12:21:30,082 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:21:34,866 - INFO - 127.0.0.1 - - [10/Apr/2025 12:21:34] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:37:52,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:37:52,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:37:52,145 - INFO -  * Restarting with stat
+2025-04-10 12:37:52,813 - WARNING -  * Debugger is active!
+2025-04-10 12:37:52,830 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:37:55,917 - INFO - 127.0.0.1 - - [10/Apr/2025 12:37:55] "[31m[1mPOST /create_employee HTTP/1.1[0m" 401 -
+2025-04-10 12:37:58,790 - INFO - Login successful for user: romal
+2025-04-10 12:37:58,790 - INFO - 127.0.0.1 - - [10/Apr/2025 12:37:58] "POST /login HTTP/1.1" 200 -
+2025-04-10 12:38:10,502 - INFO - 127.0.0.1 - - [10/Apr/2025 12:38:10] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:05,831 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:39:05,927 - INFO -  * Restarting with stat
+2025-04-10 12:39:06,593 - WARNING -  * Debugger is active!
+2025-04-10 12:39:06,593 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:11,728 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:11] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:22,847 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\utils.py', reloading
+2025-04-10 12:39:22,929 - INFO -  * Restarting with stat
+2025-04-10 12:39:23,618 - WARNING -  * Debugger is active!
+2025-04-10 12:39:23,624 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:34,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:39:34,304 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:39:34,305 - INFO -  * Restarting with stat
+2025-04-10 12:39:34,926 - WARNING -  * Debugger is active!
+2025-04-10 12:39:34,931 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:40,245 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:40] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:39:55,240 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 12:39:55,323 - INFO -  * Restarting with stat
+2025-04-10 12:39:55,991 - WARNING -  * Debugger is active!
+2025-04-10 12:39:56,005 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:39:59,429 - INFO - 127.0.0.1 - - [10/Apr/2025 12:39:59] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:40:32,539 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 12:40:32,650 - INFO -  * Restarting with stat
+2025-04-10 12:40:33,300 - WARNING -  * Debugger is active!
+2025-04-10 12:40:33,300 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:40:38,069 - INFO - 127.0.0.1 - - [10/Apr/2025 12:40:38] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 12:59:52,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 12:59:52,506 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 12:59:52,506 - INFO -  * Restarting with stat
+2025-04-10 12:59:53,118 - WARNING -  * Debugger is active!
+2025-04-10 12:59:53,125 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 12:59:57,024 - INFO - Login successful for user: romal
+2025-04-10 12:59:57,024 - INFO - 127.0.0.1 - - [10/Apr/2025 12:59:57] "POST /login HTTP/1.1" 200 -
+2025-04-10 13:00:08,728 - INFO - 127.0.0.1 - - [10/Apr/2025 13:00:08] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 13:03:16,818 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:03:17,010 - INFO -  * Restarting with stat
+2025-04-10 13:03:17,913 - WARNING -  * Debugger is active!
+2025-04-10 13:03:17,919 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:03:28,097 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:03:28,201 - INFO -  * Restarting with stat
+2025-04-10 13:03:29,008 - WARNING -  * Debugger is active!
+2025-04-10 13:03:29,015 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:19,784 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\__init__.py', reloading
+2025-04-10 13:08:19,906 - INFO -  * Restarting with stat
+2025-04-10 13:08:20,520 - WARNING -  * Debugger is active!
+2025-04-10 13:08:20,526 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:29,688 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:08:29,768 - INFO -  * Restarting with stat
+2025-04-10 13:08:30,384 - WARNING -  * Debugger is active!
+2025-04-10 13:08:30,390 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:43,588 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:08:43,669 - INFO -  * Restarting with stat
+2025-04-10 13:08:44,338 - WARNING -  * Debugger is active!
+2025-04-10 13:08:44,344 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:08:50,446 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\db\\db.py', reloading
+2025-04-10 13:08:50,526 - INFO -  * Restarting with stat
+2025-04-10 13:08:51,167 - WARNING -  * Debugger is active!
+2025-04-10 13:08:51,174 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:09:18,648 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\config.py', reloading
+2025-04-10 13:09:18,726 - INFO -  * Restarting with stat
+2025-04-10 13:09:19,355 - WARNING -  * Debugger is active!
+2025-04-10 13:09:19,361 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:09:45,729 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\handler.py', reloading
+2025-04-10 13:09:45,803 - INFO -  * Restarting with stat
+2025-04-10 13:09:46,622 - WARNING -  * Debugger is active!
+2025-04-10 13:09:46,629 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:10:12,986 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\verification_suite_assignment\\app\\routes.py', reloading
+2025-04-10 13:10:13,095 - INFO -  * Restarting with stat
+2025-04-10 13:10:13,804 - WARNING -  * Debugger is active!
+2025-04-10 13:10:13,811 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:11:33,935 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\__init__.py', reloading
+2025-04-10 13:11:34,017 - INFO -  * Restarting with stat
+2025-04-10 13:11:34,717 - WARNING -  * Debugger is active!
+2025-04-10 13:11:34,723 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:16,216 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\utils.py', reloading
+2025-04-10 13:13:16,315 - INFO -  * Restarting with stat
+2025-04-10 13:13:17,024 - WARNING -  * Debugger is active!
+2025-04-10 13:13:17,030 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:20,937 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 13:13:20,937 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 13:13:20,938 - INFO -  * Restarting with stat
+2025-04-10 13:13:21,578 - WARNING -  * Debugger is active!
+2025-04-10 13:13:21,584 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:27,484 - INFO - 127.0.0.1 - - [10/Apr/2025 13:13:27] "[35m[1mPOST /create_employee HTTP/1.1[0m" 500 -
+2025-04-10 13:13:41,892 - INFO -  * Detected change in 'E:\\internship\\assignment_suite\\app\\utils.py', reloading
+2025-04-10 13:13:41,981 - INFO -  * Restarting with stat
+2025-04-10 13:13:42,644 - WARNING -  * Debugger is active!
+2025-04-10 13:13:42,662 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:13:49,204 - INFO - 127.0.0.1 - - [10/Apr/2025 13:13:49] "[35m[1mPOST /create_employee HTTP/1.1[0m" 201 -
+2025-04-10 13:16:26,036 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 13:16:26,036 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 13:16:26,037 - INFO -  * Restarting with stat
+2025-04-10 13:16:26,769 - WARNING -  * Debugger is active!
+2025-04-10 13:16:26,786 - INFO -  * Debugger PIN: 499-523-599
+2025-04-10 13:17:30,502 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:30] "[31m[1mPOST /get_employee HTTP/1.1[0m" 401 -
+2025-04-10 13:17:35,024 - INFO - Login successful for user: romal
+2025-04-10 13:17:35,024 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:35] "POST /login HTTP/1.1" 200 -
+2025-04-10 13:17:50,740 - INFO - 127.0.0.1 - - [10/Apr/2025 13:17:50] "POST /get_employee HTTP/1.1" 200 -
