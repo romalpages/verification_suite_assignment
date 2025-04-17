@@ -5,7 +5,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-# ✅ Fix: Dictionary syntax and format
+
 users = {
     "romal": "romal123"
 }
@@ -15,7 +15,7 @@ def login():
     username = data.get("username")
     password = data.get("password")
 
-    # ✅ Fix: Correct dictionary lookup
+   
     if users.get(username) != password:
         logger.error("Invalid login attempt for user: %s", username)
         return jsonify({"error": "Invalid Credentials"}), 401
@@ -23,7 +23,7 @@ def login():
     token = create_access_token(identity=username)
     logger.info("Login successful for user: %s", username)
     
-    # ✅ Fix: Incorrect key in response
+    
     return jsonify({"token": token})
 
 
